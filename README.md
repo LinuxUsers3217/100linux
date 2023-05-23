@@ -1,21 +1,21 @@
 # 100linux
-https://mirrors.bkns.vn/
-http://mirror.bizflycloud.vn/archlinux/iso/latest/
-https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso
-https://manjaro.org/download/
-https://lubuntu.me/downloads/
-https://kubuntu.org/getkubuntu/
-https://xubuntu.org/download/
-https://www.android-x86.org/download
-https://www.freebsd.org/where/
-https://mirror.freedif.org/Deepin/
-https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-extended-3.18.0-x86_64.iso
-https://download.rockylinux.org/pub/rocky/9.2/isos/x86_64/Rocky-9.2-x86_64-minimal.iso
-https://developers.redhat.com/products/rhel/download
-https://www.linuxmint.com/download.php
-https://haiku-os.org/get-haiku
-http://mirror.rise.ph/gentoo/
-https://files.kde.org/neon/images/user/20230518-0715/neon-user-20230518-0715.iso
-https://zorinos.com/download
-https://get.opensuse.org/desktop/
-https://pop.system76.com/
+# https://mirrors.bkns.vn/
+# http://mirror.bizflycloud.vn/archlinux/iso/latest/
+# https://download.fedoraproject.org/pub/fedora/linux/releases/38/Workstation/x86_64/iso/Fedora-Workstation-Live-x86_64-38-1.6.iso
+# https://manjaro.org/download/
+# https://lubuntu.me/downloads/
+# https://kubuntu.org/getkubuntu/
+# https://xubuntu.org/download/
+# https://www.android-x86.org/download
+# https://www.freebsd.org/where/
+# https://mirror.freedif.org/Deepin/
+# https://dl-cdn.alpinelinux.org/alpine/v3.18/releases/x86_64/alpine-extended-3.18.0-x86_64.iso
+# https://download.rockylinux.org/pub/rocky/9.2/isos/x86_64/Rocky-9.2-x86_64-minimal.iso
+# https://developers.redhat.com/products/rhel/download
+# https://www.linuxmint.com/download.php
+# https://haiku-os.org/get-haiku
+# http://mirror.rise.ph/gentoo/
+# https://files.kde.org/neon/images/user/20230518-0715/neon-user-20230518-0715.iso
+# https://zorinos.com/download
+# https://get.opensuse.org/desktop/
+# https://pop.system76.com/
